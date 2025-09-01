@@ -1,0 +1,12 @@
+matplotlib
+numpy
+pandas
+scipy
+statsmodels
+geopandas
+shapely
+folium
+contextily
+libpysal
+esda
+linearmodels
